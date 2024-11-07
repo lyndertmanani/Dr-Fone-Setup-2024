@@ -1,21 +1,30 @@
-<div id="badges">
-  <img src="https://img.shields.io/badge/Windows-blue?logo=Windows&logoColor=white&style=for-the-badge" alt="Windows Badge"/>
-  <img src="https://img.shields.io/badge/License-dark?logo=License&logoColor=white&style=for-the-badge" alt="License Badge"/>
-  <img src="https://img.shields.io/badge/MIT-grey?logo=MIT&logoColor=white&style=for-the-badge" alt="MIT Badge"/>
+# Green House System Readme
 
-## [DOWNLOAD](https://github.com/preetcoder07/setup/releases/tag/DOWNLOAD)
+## Welcome to the Green House System!
 
-</div>
-<h1>Wondershare Dr. Fone DOWNLOAD</h1>
-<p><img src="https://github.com/SumaiyaLiza/geometry-/blob/main/drfoneprew2.jpg?raw=true"/></p>
-<h2>Wondershare Dr. Fone Free</h2>
-<p><strong>Description:
-Download For Free Now — Dr.Fone Offers Powerful Tools for Mobile Data Recovery, Backup, Transfer, Erase and More. Manage data, repair system, recover data, unlock and so on. Dr.Fone is at your service.</p>
-</ol>
+The Green House System is a project designed to help you effectively manage your greenhouse. It is built using React and Vite. Follow the steps below to run the system on your local machine.
 
+### Prerequisites
 
+Ensure that you have Node.js installed on your machine. You can download and install Node.js [here](https://nodejs.org/).
 
-Wondershare Dr.Fone Crack is an efficient application that has been developed to recover lost data from iPhone, iPad and iPod touch devices.
+### Installation
+1. **Clone the Repository:**
+   
+   ```bash
+   git clone git@github.com:lyndertmanani/Green_house.git
+   ```
+2. **Navigate to the Project Directory:**
+   
+   ```bash
+   cd Green_house
+   ```
+3. **Install Dependencies:**
+   
+   ```bash
+   npm install
+   ```
+### Running the Application
 
 Once the dependencies are installed, start the development server by running the following command:
 
