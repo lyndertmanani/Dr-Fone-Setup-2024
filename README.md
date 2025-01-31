@@ -32,4 +32,4 @@ Once the dependencies are installed, start the development server by running the
 npm run dev
 ```
 
-This will launch the Green House System on your local machine. Happy gardening! 🌱
+This will launch the Green House System on your local machine. Happy gardening!!! 🌱 
